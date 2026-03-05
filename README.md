@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/AI%20Systems-orange?style=flat-square" />
 </p>
 
-> I bridge the gap between complex physical systems and financial markets. Currently exploring the application of Laws of Entropy to predict market distributions and deploying scalable AI Models.
+> I bridge the gap between complex predictive mathematics and  applied financial trading. Currently exploring the application of Laws of Entropy to predict market distributions and deploying scalable AI Models.
 
 ---
 
