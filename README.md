@@ -19,9 +19,9 @@
 | Category | Tools & Languages |
 | :--- | :--- |
 | **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
-| **AI/ML** | `PyTorch` `HuggingFace` `RAG Pipelines` `Vector DBs` |
+| **AI/ML** | `PyTorch` `TensorFlow` `RAG Pipelines` `Vector DBs` |
 | **DevOps** | `Kubernetes` `Docker` `GitHub Actions` |
-| **Finance** | `Quant Modeling` `Stat-Arb` `Entropy Theory` |
+| **Finance** | `stochastic Modeling` `Statistical-Arbitrage` `Black-Scholes` |
 
 ### 🧠 Interests & Philosophy
 * **Physics + Finance:** I believe the laws of thermodynamics have more to do with the stock market than people realize.
